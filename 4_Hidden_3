@@ -1,4 +1,10 @@
-// Record: 12 keys
+// Solution: 9 Shortcuts
+// Down Arrow (Move the cursor Down)
+// Down Arrow (Move the cursor Down)
+// Opt + Down Arrow (Switch the cursor line with the one under)
+// Cmd + Down Arrow (Put the cursor at the end of the file)
+// Opt + Up Arrow * 5 (Switch the cursor line with the one above)
+
 
 You found me !
 Can you help me reorder the number from 1 to 9?
